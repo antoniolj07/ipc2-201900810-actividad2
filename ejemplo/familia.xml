@@ -12,4 +12,8 @@
         <nombre>Carmen</nombre>
         <edad>50</edad>
     </familiar>
+    <familiar id="03">
+        <nombre>Rodrigo</nombre>
+        <edad>10</edad>
+    </familiar>
 </familia>
