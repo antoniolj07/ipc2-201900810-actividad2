@@ -1,0 +1,15 @@
+<familia>
+    <apellido>Perez</apellido>
+    <familiar id="01">
+        <nombre>Jorge</nombre>
+        <edad>20</edad>
+    </familiar>
+    <familiar id="02">
+        <nombre>Javier</nombre>
+        <edad>25</edad>
+    </familiar>
+    <familiar id="03">
+        <nombre>Carmen</nombre>
+        <edad>50</edad>
+    </familiar>
+</familia>
